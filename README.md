@@ -21,7 +21,7 @@ Sparkle Spins Laundry Service is a web application for managing laundry tasks fo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/keerthanaguntur/Laundry-Management-Database.git
+    git clone https://github.com/keerthanaguntur/Laundry-Database-Management.git
     ```
 
 2. Set up your database:
